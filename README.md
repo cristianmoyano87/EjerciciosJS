@@ -1,3 +1,3 @@
 # EjerciciosJS
 
-Primer ejercicio de practica de JS
+Ejercicios de practica de JS
